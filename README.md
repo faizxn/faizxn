@@ -5,13 +5,10 @@ Experienced in securing Financial Institutions (Banks/MFS) and managing Service 
 - 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering.
 - 📍 **Location:** Dhaka, Bangladesh.
 
-### 🏆 CTF Achievements
+### 🏆 CTF Achievements:
 
-![NCSA Cyber Drill 2026](https://img.shields.io/badge/2nd_Place-NCSA_Cyber_Drill_2026-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
-![NCSA Cyber Drill 2025](https://img.shields.io/badge/2nd_Place-NCSA_Cyber_Drill_2025-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
-
-* **National Cyber Security Agency Cyber Drill 2026:** 2nd Place (Team member, Dutch-Bangla Bank).
-* **National Cyber Security Agency Cyber Drill 2025:** 2nd Place (Team member, Dutch-Bangla Bank).
+* **National Cyber Security Agency Cyber Drill - 2026:** 2nd Place (Team member, Dutch-Bangla Bank).
+* **National Cyber Security Agency Cyber Drill - 2025:** 2nd Place (Team member, Dutch-Bangla Bank).
 
 ### 🛡️ Core Skills & Technologies:
 
