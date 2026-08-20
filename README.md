@@ -27,6 +27,6 @@ Experienced in securing Financial Institutions (Banks/MFS) and managing Service 
 - **AWS SAA** (Certified Solutions Architect -Associate)
 - **AWS SysOps** (Certified CloudOps Engineer -Associate)
 - **CCNP Enterprise Core** (Cisco Certified Specialist)
-- 
+  
 📫 **Connect with me:** [faizxn@live.com](mailto:faizxn@live.com) | [LinkedIn](https://www.linkedin.com/in/ifaiz/)
 
