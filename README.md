@@ -7,8 +7,8 @@ Experienced in securing Financial Institutions (Banks/MFS) and managing Service 
 
 ### 📜 Core Skills:
 
-- **Cybersecurity** (VAPT, SOC Management, Network Security, Threat Hunting & Incident Response, Digital Forensics, Malware Analysis, Cryptography.)
-- **Networking** (Routing (OSPF, BGP, MPLS), Switching (L2/L3), VPN Technologies |Cisco, Juniper, Mikrotik, PaloAlto, Fortinet, F5 etc)
+- **Cybersecurity** (VAPT, SOC Management, Network Security, Threat Hunting, DFIR, Malware Analysis, Cryptography.)
+- **Networking** (Routing (OSPF, BGP, MPLS), Switching (L2/L3), VPN |Cisco, Juniper, Mikrotik, PaloAlto, Fortinet, F5 etc)
 - **Systems** (Linux/Windows, installing and configuring security and system tools/services across BareMetal, Hypervisors and Containers environment.)
 - **OOP Languages:** ( Java, Python, GoLang, PHP, JavaScript)
 - **Databases:** (MySQL, MSSQL, MongoDB)
