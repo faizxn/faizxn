@@ -2,17 +2,28 @@ Over **10+ years** of professional experience in **VAPT, SOC/DFIR Operations, Ne
 Experienced in securing Financial Institutions (Banks/MFS) and managing Service Provider Networks (ISP/IIG).
 
 - 🔭 **Current Role:** IT Security Engineer at Dutch-Bangla Bank PLC
-- 🏆 **CTF Achievements:** 2nd Place in National Cyber Security Agency Cyber Drill (2025 & 2026)
 - 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering
 - 📍 **Location:** Dhaka, Bangladesh
+
+### 📜 Core Skills:
+
+- **Cybersecurity** (VAPT, SOC Management, Network Security, Threat Hunting & Incident Response, Digital Forensics, Malware Analysis, Cryptography.)
+- **Networking** (Routing (OSPF, BGP, MPLS), Switching (L2/L3), VPN Technologies |Cisco, Juniper, Mikrotik, PaloAlto, Fortinet, F5 etc)
+- **Systems** (Linux/Windows, installing and configuring security and system tools/services across BareMetal, Hypervisors and Containers environment.)
+- **OOP Languages:** ( Java, Python, GoLang, PHP, JavaScript)
+- **Databases:** (MySQL, MSSQL, MongoDB)
+- **Compliance:** (PCI DSS and ISO ISMS 27001)
 
 ### 📜 Certifications
 
 - **CEH v13** (Certified Ethical Hacker)
 - **ISC2 CC** (Certified in Cybersecurity)
-- **RHCSA & RHCE v7** (Red Hat Certified System Administrator / Engineer)
-- **JNCIA-SEC & JNCIA-Junos** (Juniper Networks)
-- **AWS Certified Solutions Architect & CloudOps Engineer**
+- **RHCSA v7** (Red Hat Certified System Administrator)
+- **RHCE v7** (Red Hat Certified System Engineer)
+- **JNCIA-Junos** (Juniper Networks Certified Associate – Junos)
+- **JNCIA-Sec** (Juniper Networks Certified Associate – Security)
+- **AWS Certified Solutions Architect** (-Associate)
+- **AWS Certified CloudOps Engineer** (-Associate)
 - **CCNP Enterprise Core** (Cisco Certified Specialist)
 
 📫 **Connect with me:** [faizxn@live.com](mailto:faizxn@live.com) | [LinkedIn](https://www.linkedin.com/in/ifaiz/)
