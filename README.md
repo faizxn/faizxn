@@ -1,18 +1,18 @@
 Over **10+ years** of professional experience in **VAPT, SOC/DFIR Operations, Network & System Administration**.
 Experienced in securing Financial Institutions (Banks/MFS) and managing Service Provider Networks (ISP/IIG).
 
-- 🔭 **Current Role:** IT Security Engineer at Dutch-Bangla Bank PLC
-- 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering
+- 🔭 **Current Role:** IT Security Engineer at Dutch-Bangla Bank PLC.
+- 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering.
 - 📍 **Location:** Dhaka, Bangladesh.
 
 ### 🛡️ Core Skills & Technologies:
 
-- **Cybersecurity** (VAPT, SOC Management, Network Security, Threat Hunting, DFIR, Malware Analysis, Cryptography)
-- **Networking** (Routing (OSPF, BGP, MPLS), Switching (L2/L3), VPN |Cisco, Juniper, Mikrotik, PaloAlto, Fortinet, F5 etc)
-- **Systems** (Linux/Windows, installing & configuring security and system tools/services across BareMetal, Hypervisors and Containers)
-- **OOP Languages:** ( Java, Python, GoLang, PHP, JavaScript)
-- **Databases:** (MySQL, MSSQL, MongoDB)
-- **Compliance:** (PCI DSS and ISO ISMS 27001)
+- **Cybersecurity** VAPT, SOC Management, Network Security, Threat Hunting, DFIR, Malware Analysis, Cryptography
+- **Networking** Routing (OSPF, BGP, MPLS), Switching (L2/L3), VPN |Cisco, Juniper, Mikrotik, PaloAlto, Fortinet, F5 etc
+- **Systems** Linux/Windows, installing & configuring security and system tools/services across BareMetal, Hypervisors and Containers
+- **OOP Languages:** Java, Python, GoLang, PHP, JavaScript
+- **Databases:** MySQL, MSSQL, MongoDB
+- **Compliance:** PCI DSS and ISO ISMS 27001
 
 ### 📜 Certifications:
 
