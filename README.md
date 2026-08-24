@@ -22,10 +22,10 @@ Experienced in securing Financial Institutions (Banks/MFS) and managing Service 
 - **ISC2 CC** (Certified in Cybersecurity)
 - **RHCSA v7** (Red Hat Certified System Administrator)
 - **RHCE v7** (Red Hat Certified System Engineer)
-- **JNCIA-Junos** (Juniper Networks Certified Associate – Junos)
-- **JNCIA-Sec** (Juniper Networks Certified Associate – Security)
 - **AWS SAA** (Certified Solutions Architect -Associate)
 - **AWS SysOps** (Certified CloudOps Engineer -Associate)
+- **JNCIA-Junos** (Juniper Networks Certified Associate – Junos)
+- **JNCIA-Sec** (Juniper Networks Certified Associate – Security)
 - **CCNP Enterprise Core** (Cisco Certified Specialist)
   
 📫 **Connect with me:** [faizxn@live.com](mailto:faizxn@live.com) | [LinkedIn](https://www.linkedin.com/in/ifaiz/)
