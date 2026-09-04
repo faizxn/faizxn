@@ -1,7 +1,7 @@
 Over **10+ years** of professional experience in **VAPT, SOC/DFIR Operations, Network & System Administration**.
 Experienced in securing Financial Institutions (Banks/MFS) and managing Service Provider Networks (ISP/IIG).
 
-- 🔭 **Current Role:** IT Security Engineer at A Large Commercial Bank.
+- 🔭 **Current Role:** IT Security Engineer at A Large Private Commercial Bank.
 - 🏆 **CTF Achievements:** 2nd Place in National Cyber Security Agency Cyber Drill - (2025 & 2026)
 - 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering.
 - 📍 **Location:** Dhaka, Bangladesh.
